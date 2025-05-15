@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import "./Dashboard.css";
+import "./DashBoard.css";
 
 function DashBoard() {
   const [task, setTask] = useState("");
